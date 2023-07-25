@@ -1,6 +1,6 @@
 # COUNTER_APP
 
-![Counter App Preview](preview.png)
+![Alt text](./assets/COUNTER_PIC.png?raw=true "Counter App")
 
 ## Description
 COUNTER_APP is a simple web application that allows users to interact with a digital counter. Users can increment, decrement, and reset the counter value with the click of buttons. The app is built using HTML, CSS, and JavaScript, making it lightweight and easy to use.
